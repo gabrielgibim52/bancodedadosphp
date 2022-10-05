@@ -1,0 +1,14 @@
+*{
+    background-color: bisque;
+    text-align: center;
+}
+.titulo{
+     font-size: xx-large;
+     border-radius: 50px;
+}
+.formulario{
+    text-align: center;
+    font-size: xx-large;
+    color: gray;
+background-color: aquamarine;
+}
